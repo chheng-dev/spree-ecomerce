@@ -10,3 +10,13 @@
     - Ruby version: 3.0.1
     - Rails version: 7.0.7
     - Node version: v16.19.0
+  
+## Run rails sever
+    rails s
+
+## Dashboad 
+  Go to http://localhost:3000/admin
+
+## User Account
+    email: admin@gmail.com
+    pwd: admin123
