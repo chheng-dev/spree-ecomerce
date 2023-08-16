@@ -10,7 +10,11 @@
     - Ruby version: 3.0.1
     - Rails version: 7.0.7
     - Node version: v16.19.0
-  
+
+## Generate Database
+    bin/rails db:create
+    bin/rails db:migrate
+
 ## Run rails sever
     rails s
 
