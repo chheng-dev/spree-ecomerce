@@ -6,3 +6,7 @@
 `` 
   https://github.com/hotwired/stimulus-rails
 ``
+## Installation
+    - Ruby version: 3.0.1
+    - Rails version: 7.0.7
+    - Node version: v16.19.0
