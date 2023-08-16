@@ -21,6 +21,5 @@
 ## Dashboad 
   Go to http://localhost:3000/admin
 
-## User Account
-    email: admin@gmail.com
-    pwd: admin123
+## Use the install generators to set up Spree
+    bin/rails g spree:install --user_class=Spree::User
